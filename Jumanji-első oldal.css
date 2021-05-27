@@ -1,0 +1,81 @@
+body{
+   background-color:  rgba(116, 255, 47, 0.659);
+   font-size: larger;
+  
+}
+
+header{    
+    height: 620px;
+    background-size: cover;
+    background-position: center center;
+    background-image: url(https://media1.popsugar-assets.com/files/thumbor/_BiJdcrqY9Fj7en4YfRs2l0H0wM/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2019/02/07/712/n/1922283/1c35a9505c5c5752bd9f27.04343572_/i/Jumanji-Welcome-Jungle-Sequel-Cast.jpg)
+}
+
+h1{
+    margin-left: -24px;
+    font-weight: bold;
+    
+}
+
+.bemutatas{
+    border: solid ;
+    
+}
+
+h2{
+    margin-left: -24px;
+    font-weight: bold;
+    border: solid ;
+}
+
+.head{
+    color: black;
+    margin-left: 200px;
+    padding-left: 11rem;  
+    font-family: Verdana; 
+    text-shadow: 1px 1px 1px;
+    text-decoration: underline;
+   
+}
+
+p{
+    text-align: justify;
+
+}
+
+.img{
+        width: 500px;
+        height: 300px;
+        border: solid 5px;
+    
+    }
+
+    a{
+        color: green;
+    }
+    a:hover{
+
+        color: rgb(4, 54, 4);
+    }
+
+    .img2{
+        
+        border-radius: 50%;
+        
+    }
+    button{
+        background-color: lightgreen;
+    }
+    .email{
+        font-weight: bold;
+    }
+    .header{
+        width: 1271px;
+        margin-left: 0px;
+    }
+    .navbar{
+        margin-left: 0px;
+        width: 1271px;
+        border: 3px solid darkgreen;
+    }
+   
